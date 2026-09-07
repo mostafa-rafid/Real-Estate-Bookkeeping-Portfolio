@@ -1,0 +1,18 @@
+Business Credit Card Statement / Feed,,,,,
+"Expenses charged to the business card (repaired items, office supplies, software, marketing).",,,,,
+,,,,,
+Date,Description / Payee,Amount ($),Account Mapping Guidance,Class / Property Tag,Payment / Charge
+2026-01-20,Staples - Office Supplies & Paperwork folders,-$85,5700: Professional & Software Fees (Office Supplies),123 Maple St Apartments,Charge
+2026-01-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-01-28,Zillow Premier Agent - Tenant Acquisition Rental Listing,-$150,5800: Marketing & Advertising,123 Maple St Apartments,Charge
+2026-02-15,Home Depot - Smoke Detector Batteries & LED bulbs,-$45,5200: Repairs & Maintenance,123 Maple St Apartments,Charge
+2026-02-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-03-22,Ace Hardware - Replacement lockset Unit 2B,-$65,5200: Repairs & Maintenance,Unit 2B,Charge
+2026-03-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-04-15,Local Print Shop - Rental flyers & Marketing brochures,-$120,5800: Marketing & Advertising,123 Maple St Apartments,Charge
+2026-04-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-04-28,Business CC Autopay Payment - Received,$535,Transfer: CC Autopay Payment from Checking,123 Maple St Apartments,Payment
+2026-05-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-05-28,Facebook Ads - Rental Marketing Campaign,-$110,5800: Marketing & Advertising,123 Maple St Apartments,Charge
+2026-06-25,Intuit QuickBooks - Monthly Software Subscription,-$75,5700: Professional & Software Fees (Software),123 Maple St Apartments,Charge
+2026-06-30,Business CC Settlement Payoff - Received,$490,Transfer: Final CC Payoff before Closing Accounts,123 Maple St Apartments,Payment

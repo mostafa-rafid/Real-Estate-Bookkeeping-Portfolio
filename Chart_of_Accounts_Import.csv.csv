@@ -1,0 +1,30 @@
+Real Estate Specific Chart of Accounts,,,,
+Import this master list into QuickBooks Online to set up your practice company.,,,,
+,,,,
+Account Number,Account Name,Account Type,Detail Type,Description / Specific QBO Treatment
+1100,Business Checking - Rental Operations,Bank,Checking,Primary bank account for receiving rent and paying operating expenses.
+1200,Tenant Security Deposit Checking (Trust),Bank,Checking,Separate bank account held in escrow to keep security deposits segregated from operating cash.
+1300,Prepaid Insurance,Other Current Asset,PrepaidExpenses,"Insurance premiums paid in advance, amortized monthly."
+1510,123 Maple St - Purchase Price (Property),Fixed Asset,Non-depreciableLand,Asset account to hold the unadjusted purchase price of the property.
+1520,123 Maple St - Land Allocation,Fixed Asset,Non-depreciableLand,Value of the land portion of the purchase (cannot be depreciated).
+1530,123 Maple St - Building & Improvements,Fixed Asset,Building,"Depreciable portion of the property, including capitalized improvements."
+1540,123 Maple St - Capitalized Acquisition Costs,Fixed Asset,Building,Capitalized escrow and title costs that increase the property's tax basis.
+1550,123 Maple St - Accumulated Depreciation,Fixed Asset,AccumulatedDepreciation,Contra-asset account tracking cumulative depreciation over time.
+2100,Accounts Payable,Accounts Payable,AccountsPayable,Unpaid expenses owed to vendors and contractors.
+2200,Tenant Security Deposits (Held),Other Current Liability,OtherCurrentLiabilities,Escrow liability account representing refundable deposits owed back to tenants.
+2500,Mortgage Payable - Commercial Bank of NY,Long Term Liability,NotesPayable,Outstanding balance of the principal mortgage loan on 123 Maple St.
+3000,Owner's Capital Investment,Equity,OwnerEquity,Capital contributions made by the owner from personal funds.
+3100,Owner's Draw,Equity,PersonalDraw,Distributions of operating cash to the owner for personal use.
+3200,Retained Earnings,Equity,RetainedEarnings,Cumulative historical net profit/loss retained in the business.
+4100,Rental Income,Income,SalesOfProductIncome,Gross rental payments received from tenants.
+4200,Late Fee Income,Income,OtherPrimaryIncome,Fees charged to tenants for late rental payments.
+5100,Property Management Fees,Expense,PropertyManagementFees,Fees paid to the management company (typically 8% of collected rent).
+5200,Repairs & Maintenance,Expense,RepairMaintenance,"General repairs (plumbing, landscaping, minor HVAC, painting)."
+5300,Utilities,Expense,Utilities,"Electricity, water, sewer, and trash removal services paid by the landlord."
+5400,Insurance Expense,Expense,Insurance,Monthly amortized portion of property and liability insurance.
+5500,Property Tax Expense,Expense,TaxesPaid,Real estate property taxes paid to the county/municipality.
+5600,Mortgage Interest Expense,Expense,InterestPaid,Interest portion of the monthly mortgage payment (excludes principal).
+5700,Professional & Software Fees,Expense,LegalProfessionalFees,"Cost of bookkeeping, CPA tax filing, and software subscriptions (QBO, tenant portals)."
+5800,Marketing & Advertising,Expense,AdvertisingPromotional,"Cost of listings, Facebook ads, and flyers to attract tenants."
+5900,Depreciation Expense,Expense,Depreciation,Monthly or annual non-cash depreciation of the building and improvements.
+8100,Gain/Loss on Sale of Real Estate,Other Income,OtherMiscellaneousIncome,Special account to record the net capital gain or loss upon disposal of property.

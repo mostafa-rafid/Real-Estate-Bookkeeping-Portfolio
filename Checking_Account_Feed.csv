@@ -1,0 +1,51 @@
+Business Checking Account Bank Feed,,,,,
+This table matches standard bank feed exports (QBO CSV import format). Practice categorizing these in QBO!,,,,,
+,,,,,
+Date,Description / Payee,Amount ($),Account Mapping Guidance,Class / Property Tag,Transaction Type
+2026-01-02,Owner Initial Contribution - Deposit,"$15,000",3000: Owner's Capital Investment (Equity),123 Maple St Apartments,Deposit
+2026-01-10,Owner Contribution - Cash to Close,"$210,000",3000: Owner's Capital Investment (Equity),123 Maple St Apartments,Deposit
+2026-01-15,Acquisition Wire - Cash to Close (Escrow Co),"-$205,900",JE: Recording property acquisition,123 Maple St Apartments,Payment
+2026-01-18,Apex Property Mgmt - Security Deposit Unit 1A,"$1,800",2200: Tenant Security Deposits (Liability),Unit 1A,Deposit
+2026-01-18,Apex Property Mgmt - Security Deposit Unit 1B,"$1,800",2200: Tenant Security Deposits (Liability),Unit 1B,Deposit
+2026-01-18,Apex Property Mgmt - Security Deposit Unit 2A,"$1,800",2200: Tenant Security Deposits (Liability),Unit 2A,Deposit
+2026-01-18,Apex Property Mgmt - Security Deposit Unit 2B,"$1,800",2200: Tenant Security Deposits (Liability),Unit 2B,Deposit
+2026-01-18,Apex Property Mgmt - Prorated Jan Rent Unit 1A,$900,4100: Rental Income,Unit 1A,Deposit
+2026-01-18,Apex Property Mgmt - Prorated Jan Rent Unit 1B,$900,4100: Rental Income,Unit 1B,Deposit
+2026-01-18,Apex Property Mgmt - Prorated Jan Rent Unit 2A,$900,4100: Rental Income,Unit 2A,Deposit
+2026-01-18,Apex Property Mgmt - Prorated Jan Rent Unit 2B,$900,4100: Rental Income,Unit 2B,Deposit
+2026-01-20,Transfer to Sec Deposit Escrow Bank Account,"-$7,200",1200: Trust Checking (Transfer between bank accounts),123 Maple St Apartments,Payment
+2026-01-20,Apex Property Mgmt - Monthly Admin Fee,-$288,"5100: Property Management Fees (8% of $3,600 rent)",123 Maple St Apartments,Payment
+2026-02-01,Commercial Bank NY - Mortgage Payment,"-$4,200","5600: Interest ($3,200) & 2500: Principal ($1,000)",123 Maple St Apartments,Payment
+2026-02-05,Apex Property Mgmt - Feb Rental Income Consolidated,"$7,200","4100: Rental Income ($1,800 x 4)",123 Maple St Apartments,Deposit
+2026-02-07,Apex Property Mgmt - Management Fee Feb,-$576,"5100: Property Management Fees (8% of $7,200)",123 Maple St Apartments,Payment
+2026-02-10,County Water Utility - Water & Sewer Bill,-$350,5300: Utilities,123 Maple St Apartments,Payment
+2026-02-11,City Trash Services - Waste Removal,-$120,5300: Utilities,123 Maple St Apartments,Payment
+2026-02-12,National Grid - Public Area Electricity,-$180,5300: Utilities,123 Maple St Apartments,Payment
+2026-03-01,Commercial Bank NY - Mortgage Payment,"-$4,200","5600: Interest ($3,195) & 2500: Principal ($1,005)",123 Maple St Apartments,Payment
+2026-03-05,Apex Property Mgmt - Mar Rental Income Consolidated,"$7,200","4100: Rental Income ($1,800 x 4)",123 Maple St Apartments,Deposit
+2026-03-07,Apex Property Mgmt - Management Fee Mar,-$576,"5100: Property Management Fees (8% of $7,200)",123 Maple St Apartments,Payment
+2026-03-15,Rapid Rooter Plumbing - Tenant Plumbing Repair (1A),-$450,5200: Repairs & Maintenance,Unit 1A,Payment
+2026-04-01,Commercial Bank NY - Mortgage Payment,"-$4,200","5600: Interest ($3,190) & 2500: Principal ($1,010)",123 Maple St Apartments,Payment
+2026-04-05,Apex Property Mgmt - Apr Rental Income Consolidated,"$7,200","4100: Rental Income ($1,800 x 4)",123 Maple St Apartments,Deposit
+2026-04-07,Apex Property Mgmt - Management Fee Apr,-$576,"5100: Property Management Fees (8% of $7,200)",123 Maple St Apartments,Payment
+2026-04-12,County Water Utility - Water & Sewer Bill,-$370,5300: Utilities,123 Maple St Apartments,Payment
+2026-04-14,City Trash Services - Waste Removal,-$120,5300: Utilities,123 Maple St Apartments,Payment
+2026-04-15,National Grid - Public Area Electricity,-$175,5300: Utilities,123 Maple St Apartments,Payment
+2026-04-20,Greenscape Landscaping - Spring Clean Up & Mulch,-$650,5200: Repairs & Maintenance,123 Maple St Apartments,Payment
+2026-04-28,Business Credit Card - Monthly Autopay checking,-$535,Transfer: Payment to Credit Card liability,123 Maple St Apartments,Payment
+2026-05-01,Commercial Bank NY - Mortgage Payment,"-$4,200","5600: Interest ($3,185) & 2500: Principal ($1,015)",123 Maple St Apartments,Payment
+2026-05-05,Apex Property Mgmt - May Rental Income Consolidated,"$7,300","4100: Rental Income ($7,200) + 4200: Late Fee Unit 2B ($100)",123 Maple St Apartments,Deposit
+2026-05-07,Apex Property Mgmt - Management Fee May,-$584,"5100: Property Management Fees (8% of $7,300)",123 Maple St Apartments,Payment
+2026-06-01,Commercial Bank NY - Mortgage Payment,"-$4,200","5600: Interest ($3,180) & 2500: Principal ($1,020)",123 Maple St Apartments,Payment
+2026-06-05,Apex Property Mgmt - Jun Rental Income Consolidated,"$7,200","4100: Rental Income ($1,800 x 4)",123 Maple St Apartments,Deposit
+2026-06-07,Apex Property Mgmt - Management Fee Jun,-$576,"5100: Property Management Fees (8% of $7,200)",123 Maple St Apartments,Payment
+2026-06-10,County Water Utility - Water & Sewer Bill,-$390,5300: Utilities,123 Maple St Apartments,Payment
+2026-06-12,City Trash Services - Waste Removal,-$120,5300: Utilities,123 Maple St Apartments,Payment
+2026-06-13,National Grid - Public Area Electricity,-$190,5300: Utilities,123 Maple St Apartments,Payment
+2026-06-15,Climate Control HVAC - Quarterly AC Service,-$350,5200: Repairs & Maintenance,123 Maple St Apartments,Payment
+2026-06-20,County Tax Collector - Property Tax Bill,"-$2,400",5500: Property Tax Expense,123 Maple St Apartments,Payment
+2026-06-30,Transfer from Security Deposit Trust Account,"$7,200",1200: Trust Checking (Transfer between bank accounts),123 Maple St Apartments,Deposit
+2026-06-30,Apex Property Mgmt - Return of Tenant Security Deposits,"-$7,200",2200: Tenant Security Deposits (Refundable),123 Maple St Apartments,Payment
+2026-06-30,Business Credit Card - Final Settlement Payoff,-$490,Transfer: Payment to Credit Card liability,123 Maple St Apartments,Payment
+2026-06-30,Owner Draw - Transfer to Personal Account,"-$5,000",3100: Owner's Draw (Equity payout),123 Maple St Apartments,Payment
+2026-06-30,Acquisition Title Escrow Co - Net Sale Proceeds,"$253,950",JE: Property disposal transaction net deposit,123 Maple St Apartments,Deposit
