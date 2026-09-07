@@ -110,7 +110,7 @@ Are you a real estate investor, property manager, or syndicator looking for a sp
 
 Let's discuss how I can streamline your bookkeeping so you can focus on scouting your next acquisition [16].
 
-*   **Name**: [Mostafa Rafid]
-*   **Email**: [Quickmostafazero@gmail.com]
-*   **LinkedIn**: [https://www.linkedin.com/in/mostafa-rafid-/]
-*   **Mobile**: [+8801781845848]
+*   **Name**: Mostafa Rafid
+*   **Email**: Quickmostafazero@gmail.com
+*   **LinkedIn**: https://www.linkedin.com/in/mostafa-rafid-/
+*   **Mobile**: +8801781845848
