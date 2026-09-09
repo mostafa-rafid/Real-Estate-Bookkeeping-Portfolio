@@ -78,8 +78,7 @@ To record the sale of 123 Maple Street for $950,000, payoff of the remaining mor
 To verify that the ledger is 100% accurate and audit-ready, here is the monthly reconciliation proof showing a perfect $0.00 difference for the checking and escrow accounts:
 
 ![QBO Bank Reconciliation Proof](images/bank reconcile.png)
-(images/bank reconcile statement.png)
-(images/credit card reconcile.png) (images/reconcile.png)
+
 
 ### 📈 Unit-Level Profit & Loss Statement (Class Tracking)
 
