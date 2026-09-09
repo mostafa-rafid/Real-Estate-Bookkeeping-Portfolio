@@ -73,9 +73,6 @@ To record the sale of 123 Maple Street for $950,000, payoff of the remaining mor
 | **TOTAL** | | **$908,136.50** | **$908,136.50** | **Balanced to the penny** |
 
 ---
-Here is the ready-to-use Markdown code block organized by section. You can copy and paste this directly into your GitHub **`README.md`** file:
-
-```markdown
 ## 📊 QuickBooks Online Financial Proof & Visual Evidence
 
 ### 📈 Profit & Loss Reports
@@ -131,7 +128,6 @@ Here is the ready-to-use Markdown code block organized by section. You can copy 
 
 #### Tenant Account Status Overview
 ![Customer State](images/customer%20state.png)
-```
 ## 📈 Strategic Reporting & Financial KPIs
 
 Beyond basic bookkeeping, I generate strategic financial intelligence for real estate investors [14]. This model calculated the following annualized property metrics for 123 Maple Street prior to its sale [14]:
