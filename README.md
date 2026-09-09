@@ -73,24 +73,65 @@ To record the sale of 123 Maple Street for $950,000, payoff of the remaining mor
 | **TOTAL** | | **$908,136.50** | **$908,136.50** | **Balanced to the penny** |
 
 ---
-### 📊 Proof of Reconciled Books (QuickBooks Online)
+Here is the ready-to-use Markdown code block organized by section. You can copy and paste this directly into your GitHub **`README.md`** file:
 
-To verify that the ledger is 100% accurate and audit-ready, here is the monthly reconciliation proof showing a perfect $0.00 difference for the checking and escrow accounts:
+```markdown
+## 📊 QuickBooks Online Financial Proof & Visual Evidence
 
-![QBO Bank Reconciliation Proof](images/bank reconcile.png)
+### 📈 Profit & Loss Reports
 
+#### Overall Profit & Loss (Class & Unit Tracking)
+![Overall P&L](images/Overall%20P&L.png)
 
-### 📈 Unit-Level Profit & Loss Statement (Class Tracking)
+#### Profit & Loss (Summary View)
+![P&L without Class](images/P%26L%20without%20Class.png)
 
-Every monthly rent payment, utility bill, and repair is allocated directly to individual units to track micro-level property performance:
+#### Quarterly Profit & Loss Breakdown
+| Quarter 1 P&L | Quarter 2 P&L |
+| :---: | :---: |
+| ![Q1 P&L](images/Q-1%20P%26L.png) | ![Q2 P&L](images/Q2%20P%26L.png) |
 
-![QBO Profit and Loss Statement by Unit](images/pl-statement.png)
+---
 
-### 🏛️ Capitalized Assets & Escrow Balance Sheet
+### 🏛️ Balance Sheet & Fixed Assets
+![Balance Sheet](images/balance%20sheet.png)
 
-Showing correct allocation of Land (non-depreciable) vs. Building Basis, alongside segregated tenant security escrow trust accounts:
+---
 
-![QBO Comparative Balance Sheet](images/balance-sheet.png)
+### 📑 Journal Entries (Acquisition & Sale)
+
+#### Property Acquisition Journal Entry ($850,000 Purchase)
+![Journal Property Acquisition](images/journal%20property%20acquisition.png)
+
+#### Property Sale Journal Entry ($950,000 Disposal & Capital Gain)
+![Journal of Property Sale](images/journal%20of%20property%20sale.png)
+
+---
+
+### 🔄 Bank & Credit Card Reconciliations ($0.00 Discrepancy)
+
+#### Checking Account Reconciliation Summary
+![Bank Reconcile](images/bank%20reconcile.png)
+
+#### Detailed Bank Reconciliation Statement
+![Bank Reconcile Statement](images/bank%20reconcile%20statement.png)
+
+#### Credit Card Account Reconciliation
+![Credit Card Reconcile](images/credit%20card%20reconcile.png)
+
+#### Monthly Reconciliation Overview
+![Reconcile Overview](images/reconcile.png)
+
+---
+
+### 👤 Tenant Ledger & Customer Statements
+
+#### Tenant Rent Roll Ledger
+![Customer Statement](images/customer%20statement.png)
+
+#### Tenant Account Status Overview
+![Customer State](images/customer%20state.png)
+```
 ## 📈 Strategic Reporting & Financial KPIs
 
 Beyond basic bookkeeping, I generate strategic financial intelligence for real estate investors [14]. This model calculated the following annualized property metrics for 123 Maple Street prior to its sale [14]:
