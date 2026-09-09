@@ -73,7 +73,23 @@ To record the sale of 123 Maple Street for $950,000, payoff of the remaining mor
 | **TOTAL** | | **$908,136.50** | **$908,136.50** | **Balanced to the penny** |
 
 ---
+### 📊 Proof of Reconciled Books (QuickBooks Online)
 
+To verify that the ledger is 100% accurate and audit-ready, here is the monthly reconciliation proof showing a perfect $0.00 difference for the checking and escrow accounts:
+
+![QBO Bank Reconciliation Proof](images/reconciliation.png)
+
+### 📈 Unit-Level Profit & Loss Statement (Class Tracking)
+
+Every monthly rent payment, utility bill, and repair is allocated directly to individual units to track micro-level property performance:
+
+![QBO Profit and Loss Statement by Unit](images/pl-statement.png)
+
+### 🏛️ Capitalized Assets & Escrow Balance Sheet
+
+Showing correct allocation of Land (non-depreciable) vs. Building Basis, alongside segregated tenant security escrow trust accounts:
+
+![QBO Comparative Balance Sheet](images/balance-sheet.png)
 ## 📈 Strategic Reporting & Financial KPIs
 
 Beyond basic bookkeeping, I generate strategic financial intelligence for real estate investors [14]. This model calculated the following annualized property metrics for 123 Maple Street prior to its sale [14]:
