@@ -132,11 +132,11 @@ To record the sale of 123 Maple Street for $950,000, payoff of the remaining mor
 
 Beyond basic bookkeeping, I generate strategic financial intelligence for real estate investors [14]. This model calculated the following annualized property metrics for 123 Maple Street prior to its sale [14]:
 
-*   **Net Operating Income (NOI)**: **$53,815.00** (Annualized) – Tracks the core profitability of the asset [14].
-*   **Capitalization Rate (Cap Rate)**: **6.23%** – Represents the unlevered yield based on the acquisition cost [14].
+*   **Net Operating Income (NOI)**: **$59,268.00** (Annualized) – Tracks the core profitability of the asset [14].
+*   **Capitalization Rate (Cap Rate)**: **6.33%** – Represents the unlevered yield based on the acquisition cost [14].
 *   **Debt Service Coverage Ratio (DSCR)**: **1.33** – Essential for confirming bank refinancing suitability (Minimum requirement is typically 1.25) [14, 15].
-*   **Cash-on-Cash Return (CoC)**: **5.58%** – Measures the levered return on actual cash equity invested ($240,000 cash-on-hand close) [14].
-*   **Operating Expense Ratio (OER)**: **32.73%** – Tracks operational efficiency against gross revenue [14].
+*   **Cash-on-Cash Return (CoC)**: **4.92%** – Measures the levered return on actual cash equity invested ($240,000 cash-on-hand close) [14].
+*   **Operating Expense Ratio (OER)**: **25.36%** – Tracks operational efficiency against gross revenue [14].
 
 ---
 
@@ -144,10 +144,10 @@ Beyond basic bookkeeping, I generate strategic financial intelligence for real e
 
 If you use the CSV feeds in this repository to reconstruct this client file in QuickBooks Online, your financials must match these exact figures to verify your work [24]:
 
-1.  **Profit & Loss (6-Month Operating)**: Net Operating Income must equal **$24,665.00**; Net Income (including mortgage interest and building depreciation) must equal **$3,407.50** [14].
+1.  **Profit & Loss (6-Month Operating)**: Net Operating Income must equal **$2,007.00**; Net Income (including mortgage interest and building depreciation) must equal **$42,684.00** [14].
 2.  **Pre-Sale Balance Sheet (June 30 Morning)**:
-    *   Total Assets = **$886,047.50** (including $28,224.00 Checking Operating, $7,200.00 Checking Tenant Trust, $1,300.00 Prepaid Insurance, and $849,323.50 Net Fixed Assets) [5].
-    *   Total Liabilities = **$642,640.00** (including $634,950.00 Mortgage, $7,200.00 Security Deposits Held, and $490.00 Credit Card Payable) [5].
+    *   Total Assets = **$901,884.00** (including $31,284.00 Checking Operating, $7,200.00 Checking Tenant Trust, $1,300.00 Prepaid Insurance, and $861,000.00 Net Fixed Assets) [5].
+    *   Total Liabilities = **$645,065.00** (including $634,950.00 Mortgage, $7,200.00 Security Deposits Held, and $415.00.00 Credit Card Payable) [5].
     *   Total Equity = **$277,684.00** (including $240,000.00 Owner Capital and $3,407.50 Net Income) [5].
     *   *Balance Discrepancy = $0.00*
 3.  **Post-Sale Balance Sheet (June 30 Evening)**:
