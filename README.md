@@ -148,12 +148,12 @@ If you use the CSV feeds in this repository to reconstruct this client file in Q
 2.  **Pre-Sale Balance Sheet (June 30 Morning)**:
     *   Total Assets = **$886,047.50** (including $28,224.00 Checking Operating, $7,200.00 Checking Tenant Trust, $1,300.00 Prepaid Insurance, and $849,323.50 Net Fixed Assets) [5].
     *   Total Liabilities = **$642,640.00** (including $634,950.00 Mortgage, $7,200.00 Security Deposits Held, and $490.00 Credit Card Payable) [5].
-    *   Total Equity = **$243,407.50** (including $240,000.00 Owner Capital and $3,407.50 Net Income) [5].
+    *   Total Equity = **$277,684.00** (including $240,000.00 Owner Capital and $3,407.50 Net Income) [5].
     *   *Balance Discrepancy = $0.00*
 3.  **Post-Sale Balance Sheet (June 30 Evening)**:
-    *   Total Assets = **$276,684.00** (fully liquid cash in Checking Operating, after payoff of mortgage, CC, and owner draw of $5,000) [5].
-    *   Total Liabilities = **$0.00** (fully liquidated) [5].
-    *   Total Equity = **$276,684.00** ($240,000.00 Owner Capital - $5,000.00 Owner Draw + $41,684.00 Cumulative Net Income which includes the $40,676.50 gain on sale) [1, 5, 13].
+    *   Total Assets = **$277,784.00** (fully liquid cash in Checking Operating, after payoff of mortgage, CC, and owner draw of $5,000) [5].
+    *   Total Liabilities = **$100.00** (fully liquidated) [5].
+    *   Total Equity = **$277,784.00** ($240,000.00 Owner Capital - $5,000.00 Owner Draw + $42,684.00 Cumulative Net Income which includes the $40,677.00 gain on sale) [1, 5, 13].
     *   *Balance Discrepancy = $0.00*
 
 ---
